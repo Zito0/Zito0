@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleh</h1>
 <h3 align="center">Juniour frontend developer. I'm still learning</h3>
 
-- Learning some skills: C#, JavaScript, HTML and CSS. **Learning some skills**
+- Learning some skills: C#, JavaScript, HTML and CSS.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
